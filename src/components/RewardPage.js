@@ -298,7 +298,9 @@ const RewardPage = () => {
               <h4 className="text-xl font-bold mb-2 text-red-500">
                 Romantic Dinner
               </h4>
-              <p className="text-black">Your favorite spaghetti date!</p>
+              <p className="text-black">
+                dinner date ta kay dugay na kayta wa ka date!
+              </p>
             </div>
           </div>
         </div>
