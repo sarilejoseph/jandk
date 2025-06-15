@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import img from "../assets/yyy.jpg";
 
 const LandingPage = () => {
   const [password, setPassword] = useState("");
@@ -24,7 +25,7 @@ const LandingPage = () => {
       <div className="relative mb-12">
         <div className="w-80 h-80 md:w-96 md:h-96 relative">
           <img
-            src="https://via.placeholder.com/400x400?text=Our+Photo"
+            src={img}
             alt="Couple"
             className="w-full h-full object-cover rounded-full shadow-2xl border-8"
             style={{ borderColor: "#8B4513" }}
