@@ -21,7 +21,7 @@ const questions = [
     options: ["Yes", "No", "Maybe", "Lubot nimo baho"],
     answer: "Yes",
     emoji: "💕",
-    celebrationText: "Aww, I love you too, my Lang! 🥰",
+    celebrationText: "Aww, I love you too, Langga! 🥰",
   },
 ];
 
